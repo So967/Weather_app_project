@@ -1,1 +1,1 @@
-# Weather_app_project
+This is my first project, developed as part of my learning journey in Python programming. The app is a fully functional weather application built using Python and the Tkinter library for the graphical user interface (GUI). It uses the Open Weather Map API to fetch real-time weather data, allowing users to check the weather conditions for any location worldwide by simply providing the name of a city.
